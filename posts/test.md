@@ -11,4 +11,4 @@ publish_date: 2022-10-14
 deno test --coverage=coverage
 ```
 
-![Image test](../images/test.jpg)
+![Image test](../images/avatar.png)
